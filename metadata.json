@@ -1,0 +1,6 @@
+{
+  "name": "PhytoScan - Leaf Disease Diagnostics & Plant Health Monitor",
+  "description": "Scan plant leaves with AI vision to diagnose diseases, detect symptoms, and receive personalized care and recovery guides.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
